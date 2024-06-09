@@ -52,7 +52,3 @@ Contributions to improve the efficiency or readability of the code are welcome. 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-**Note**: This README assumes the presence of a LICENSE file in the repository for the open-source license reference. Please ensure to include a suitable license file as per your project's requirements.
